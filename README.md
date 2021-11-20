@@ -6,4 +6,4 @@ Get a random article from Wikipedia on the topic of programming, just by clickin
 
 ## Usage
 
-Just launch the project through IDE or collect through the maven. By default, the project runs on port 8080.
+Just launch the project through IDEA or collect through the maven. By default, the project runs on port 8080.
